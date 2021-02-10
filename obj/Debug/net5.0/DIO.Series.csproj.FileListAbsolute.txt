@@ -1,0 +1,16 @@
+/home/mk014/Documentos/www/DIO.Series/obj/Debug/net5.0/DIO.Series.csprojAssemblyReference.cache
+/home/mk014/Documentos/www/DIO.Series/obj/Debug/net5.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/mk014/Documentos/www/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfoInputs.cache
+/home/mk014/Documentos/www/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfo.cs
+/home/mk014/Documentos/www/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.CoreCompileInputs.cache
+/home/mk014/Documentos/www/DIO.Series/bin/Debug/net5.0/DIO.Series
+/home/mk014/Documentos/www/DIO.Series/bin/Debug/net5.0/DIO.Series.deps.json
+/home/mk014/Documentos/www/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.json
+/home/mk014/Documentos/www/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.dev.json
+/home/mk014/Documentos/www/DIO.Series/bin/Debug/net5.0/DIO.Series.dll
+/home/mk014/Documentos/www/DIO.Series/bin/Debug/net5.0/ref/DIO.Series.dll
+/home/mk014/Documentos/www/DIO.Series/bin/Debug/net5.0/DIO.Series.pdb
+/home/mk014/Documentos/www/DIO.Series/obj/Debug/net5.0/DIO.Series.dll
+/home/mk014/Documentos/www/DIO.Series/obj/Debug/net5.0/ref/DIO.Series.dll
+/home/mk014/Documentos/www/DIO.Series/obj/Debug/net5.0/DIO.Series.pdb
+/home/mk014/Documentos/www/DIO.Series/obj/Debug/net5.0/DIO.Series.genruntimeconfig.cache
